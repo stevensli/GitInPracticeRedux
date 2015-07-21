@@ -1,3 +1,2 @@
 Hello, Git!
 Git in Practice is a great book.
-Reading it is a aenjoy job.
